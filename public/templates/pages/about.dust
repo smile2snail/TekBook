@@ -1,0 +1,17 @@
+{>"layouts/master" /}
+{<title}
+	About TekBooks
+{/title}
+
+{<body}
+     <div class="row">
+      <div class="large-12 columns">
+        <h2>About Us</h2>
+        <p>
+				Operators now have well-developed network almost everywhere can be very smooth online, online shopping has to be rather mature late, looking ahead, more people in Taiwan use the Yahoo auction weighing is the case. With online shopping related to the topic as a theme, and then with PHP, MYSQL, and the future of software DataBase, etc. implement this project, coming to understand how to use and a complete framework for real on the network can allow buyers to secure online shopping platform.
+				</p>
+				<p>
+				This project is an online technology-books shopping site. Site content for online textbook system that allows ordinary users to conveniently at home, use the Internet features, easy to find books you want. Apply for membership of the way through, so shoppers can use the web site functionality. The background management system, using MongoDB as a database system to provide managers with a convenient and fast interface, so that managers use the manage system to edit books, anywhere can easily handle all the information.
+				</p>
+    </div>
+{/body}
